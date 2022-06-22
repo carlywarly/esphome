@@ -1,7 +1,6 @@
 substitutions:
   device_name: wooxr4785
-  friendly_name: wooxr4785
-  sleep: "true"
+  friendly_name: wooxr4785  
 
 esphome:
   name: "${device_name}"
